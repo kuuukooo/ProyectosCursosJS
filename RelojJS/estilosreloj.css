@@ -1,0 +1,21 @@
+.timerBtn{
+    height: 40px;
+    width: 100px;
+    border: 3px solid;
+    border-radius: 12px;
+    background-color: #18191a;
+    color: white;
+    cursor: pointer;
+    font-family: 'Courier New', Courier, monospace;
+}
+#timeDisplay{
+    font-size: 75px;
+    color: #f5ef42;
+    font-family: 'Courier New', Courier, monospace;
+}
+#timeContainer{
+    text-align: center;
+    border: 3px solid;
+    border-radius: 25px;
+    background-color: #222222;
+}
