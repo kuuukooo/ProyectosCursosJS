@@ -1,0 +1,22 @@
+.btnEleccion{
+    line-height: 30px;
+    width: 150px;
+
+}
+#DivJuego{
+    font-family: 'Courier New', Courier, monospace;
+    border: 3px solid;
+    border-radius: 25px;
+    padding: 10px;
+    background-color: #18191a;
+    text-align: center;
+}
+#textoJugador{
+    color: lightgreen;
+}
+#textoComputadora{
+    color: red;
+}
+#textoResultado{
+    color: white;
+}   
