@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat+Brush&display=swap');
+
+body{
+    background-color: #18191a;
+}
+#textoTitulo{
+    font-family: 'Caveat Brush', cursive;
+    font-size: 4rem;
+    color: white;
+}
+#gameContainer{
+    text-align: center;
+}
+#gameBoard{
+    border: 3px solid;
+    color: white;
+}
+#scoreText{
+    font-family: 'Caveat Brush', cursive;
+    font-size: 85px;
+    color: white;
+}
+#resetBtn{
+    font-family: 'Caveat Brush', cursive;
+    font-size: 22px;
+    width: 75px;
+    height: 30px;
+    border-radius: 15px;
+    cursor: pointer;
+    justify-content: center;
+    background-color: white;
+    color: #18191a;
+}
